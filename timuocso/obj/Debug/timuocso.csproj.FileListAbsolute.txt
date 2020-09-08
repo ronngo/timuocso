@@ -1,0 +1,6 @@
+C:\Users\ronng\source\repos\timuocso\timuocso\bin\Debug\timuocso.exe.config
+C:\Users\ronng\source\repos\timuocso\timuocso\bin\Debug\timuocso.exe
+C:\Users\ronng\source\repos\timuocso\timuocso\bin\Debug\timuocso.pdb
+C:\Users\ronng\source\repos\timuocso\timuocso\obj\Debug\timuocso.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\timuocso\timuocso\obj\Debug\timuocso.exe
+C:\Users\ronng\source\repos\timuocso\timuocso\obj\Debug\timuocso.pdb
